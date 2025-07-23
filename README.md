@@ -72,4 +72,4 @@ This project is for educational and research purposes.
 
 ## Contact
 
-For questions or collaboration, please contact [Saeedeh] via [LinkedIn](www.linkedin.com/in/saeedehalamkar) or [GitHub](https://github.com/Saeedeh8858/)
+For questions or collaboration, please contact [Saeedeh] via [LinkedIn](https://www.linkedin.com/in/saeedehalamkar) or [GitHub](https://github.com/Saeedeh8858/)
