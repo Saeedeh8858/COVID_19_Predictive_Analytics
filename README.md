@@ -11,7 +11,7 @@ This project applies machine learning techniques to COVID-19 patient data to ans
 
 ## Key Questions Addressed
 
-1. Predict likelihood of COVID-19 reinfection.
+1. Predict the likelihood of COVID-19 reinfection.
 2. Identify individuals most at risk of reinfection.
 3. Predict ICU admission based on health indicators.
 4. Evaluate hospitalization prediction models.
@@ -72,4 +72,4 @@ This project is for educational and research purposes.
 
 ## Contact
 
-For questions or collaboration, please contact [Saeedeh] via [LinkedIn](www.linkedin.com/in/saeedehalamkar) or [github](https://github.com/Saeedeh8858/)
+For questions or collaboration, please contact [Saeedeh] via [LinkedIn](www.linkedin.com/in/saeedehalamkar) or [GitHub](https://github.com/Saeedeh8858/)
